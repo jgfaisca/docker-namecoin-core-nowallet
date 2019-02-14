@@ -1,4 +1,4 @@
-# docker-namecoind-core-no-wallet
+# docker-namecoind-core-nowallet
 Automated dockerhub build for namecoin-core compiled in disable-wallet mode, a reimplementation of Namecoin on top of the current Bitcoin Core codebase. When the intention is to run a P2P namecoin node without a wallet.
 
 
