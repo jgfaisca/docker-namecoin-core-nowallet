@@ -21,7 +21,7 @@ function randomUser(){
 }
 
 # Docker image
-IMG="demo/namecoin-core"
+IMG="demo/namecoin-core-nowallet"
 TAG="latest"
 
 # Docker Namecoin container
